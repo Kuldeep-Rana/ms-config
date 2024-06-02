@@ -1,4 +1,0 @@
-limit-services:
-  limitConfig:
-    minimum: 2
-    maximum: 10
